@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Wake William Up for Prework C*ding",
+      "day": "2AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Dont Play With Dog",
+      "day": "All Day",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Die",
+      "day": "Now",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Wake Waifus Up",
+      "day": "Morning",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Say Hello To The World",
+      "day": "Morning",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
